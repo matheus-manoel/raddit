@@ -12,6 +12,6 @@ gem 'devise'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'simple_form', '~> 3.0.2'
 gem 'jbuilder', '~> 2.0'
-gem 'sdoc', '~> 0.4.0',          group: :doc
-gem 'spring',        group: :development
+gem 'sdoc', '~> 0.4.0'          
+gem 'spring'
 gem 'pg'
